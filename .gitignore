@@ -1,19 +1,12 @@
 # =============== #
 # Unity generated #
 # =============== #
-Project/Temp/
-Project/Obj/
-Project/UnityGenerated/
-Project/Library/
-Project/Assets/AssetStoreTools*
-Project/Logs/
-Labs/Temp/
-Labs/Obj/
-Labs/UnityGenerated/
-Labs/Library/
-Labs/Assets/AssetStoreTools*
-Labs/.vs/
-Labs/Logs/
+Temp/
+Obj/
+Library/
+Assets/AssetStoreTools*
+Logs/
+
 
 
 
@@ -42,6 +35,3 @@ ExportedObj/
 Icon?
 ehthumbs.db
 Thumbs.db
-
-Project/.vs/Project/v15/Server/sqlite3/storage.ide-wal
-Project/.vs/
